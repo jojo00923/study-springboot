@@ -76,3 +76,7 @@ class EmployeeController {
   }
 }
 ```
+
+OAuth2 관련 자료 -> 시큐리티 학습때 사용 예정
+https://knoc-story.tistory.com/80
+
